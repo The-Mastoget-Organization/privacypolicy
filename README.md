@@ -10,6 +10,9 @@ Mastoget does not collect any personal or non-personal identification informatio
 
 Our Site does not use any cookies or similar technologies for tracking or analytical purposes. You can browse our website anonymously without any tracking.
 
+## Use of your data
+Since we do not collect any data from you, so we do not have your data for us to utilize. In case of doubt, check this site's source code on https://github.com/The-Mastoget-Organization/source/
+
 ## Third-Party Links
 
 Our Site may contain links to third-party websites. Please note that we do not have any association with third-party agencies or services that collect personally identifiable information. We are not responsible for the privacy practices of these websites. We encourage Users to be aware when they leave our Site and to read the privacy statements of each and every website that collects personally identifiable information. Examples of these third-party links are the external servers of the Mastodon network.
@@ -18,5 +21,11 @@ Our Site may contain links to third-party websites. Please note that we do not h
 
 Mastoget has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
+## GDPR Compliance
+This website is GDPR-compliant.
+
+## Regulatory Agency
+Please refer to your own territories' privacy agencies.
+
 ## Contacting Us
-For any concerns regarding our privacy policy, please reach us by opening a discussion on https://github.com/The-Mastoget-Organization/privacypolicy/discussions
+For any concerns regarding our privacy policy, please reach us by opening a discussion on https://github.com/The-Mastoget-Organization/privacypolicy/discussions/
