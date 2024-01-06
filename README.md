@@ -1,3 +1,5 @@
+[Go Back to Mastoget](https://mastoget.x10.bz)  
+
 # Privacy Policy
 
 This Privacy Policy governs the manner in which Mastoget handles information collected from users (each, a "User") of the https://mastoget.x10.bz website ("Site"). To check out the revisions on this policy, please visit https://github.com/The-Mastoget-Organization/privacypolicy/commits/main/
