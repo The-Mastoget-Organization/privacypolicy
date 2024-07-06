@@ -31,3 +31,11 @@ Please refer to your own territories' privacy agencies.
 
 ## Contacting Us
 For any concerns regarding our privacy policy, please reach us by opening a discussion on https://github.com/The-Mastoget-Organization/privacypolicy/discussions/
+<br><br>
+[Mastodon Profile](https://mastodon.social/@mastoget)  <br>
+[Github Profile](https://github.com/The-Mastoget-Organization/)  <br>
+[Source Code](https://github.com/The-Mastoget-Organization/source)  <br>
+[Privacy Policy](https://github.com/The-Mastoget-Organization/privacypolicy)<br>
+[Terms of Service](https://github.com/The-Mastoget-Organization/termsofservice)<br>
+[Mastodon Instances List](https://github.com/The-Mastoget-Organization/servers-list)<br>
+[Bug/Issue Reporting](https://github.com/The-Mastoget-Organization/about/issues)<br><br>  
